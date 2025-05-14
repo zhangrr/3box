@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 八戒的碎碎念</title>
+        <link>https://blog.rendoumi.com/post/</link>
+        <description>Recent content in Posts on 八戒的碎碎念</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>八戒和小钻共同版权所有</copyright>
+        <lastBuildDate>Wed, 14 May 2025 20:32:55 +0800</lastBuildDate><atom:link href="https://blog.rendoumi.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>重打鼓，另开张，新的博客开始了</title>
+        <link>https://blog.rendoumi.com/p/%E9%87%8D%E6%89%93%E9%BC%93%E5%8F%A6%E5%BC%80%E5%BC%A0%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%A7%8B%E4%BA%86/</link>
+        <pubDate>Wed, 14 May 2025 20:32:55 +0800</pubDate>
+        
+        <guid>https://blog.rendoumi.com/p/%E9%87%8D%E6%89%93%E9%BC%93%E5%8F%A6%E5%BC%80%E5%BC%A0%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%A7%8B%E4%BA%86/</guid>
+        <description>&lt;p&gt;又双叒叕发起一个新的博客了，本来是用的wordpress，可是这玩意实在是太沉重了。&lt;/p&gt;
+&lt;p&gt;最后还是换到Hugo，然后静态托管到Github Page好了。&lt;/p&gt;
+&lt;p&gt;重新开始。这里记录生活的一些方面，官网的就放技术文章。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

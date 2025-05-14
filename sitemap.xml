@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.rendoumi.com/</loc>
+    <lastmod>2025-05-14T20:32:55+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.rendoumi.com/post/</loc>
+    <lastmod>2025-05-14T20:32:55+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.rendoumi.com/p/%E9%87%8D%E6%89%93%E9%BC%93%E5%8F%A6%E5%BC%80%E5%BC%A0%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%A7%8B%E4%BA%86/</loc>
+    <lastmod>2025-05-14T20:32:55+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.rendoumi.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rendoumi.com/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rendoumi.com/categories/</loc>
+  </url><url>
+    <loc>https://blog.rendoumi.com/links/</loc>
+  </url><url>
+    <loc>https://blog.rendoumi.com/search/</loc>
+  </url><url>
+    <loc>https://blog.rendoumi.com/tags/</loc>
+  </url><url>
+    <loc>https://blog.rendoumi.com/categories/test/</loc>
+  </url><url>
+    <loc>https://blog.rendoumi.com/%E5%85%B3%E4%BA%8E/</loc>
+  </url>
+</urlset>
