@@ -7,7 +7,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>八戒和小钻共同版权所有</copyright>
-        <lastBuildDate>Wed, 14 May 2025 20:32:55 +0800</lastBuildDate><atom:link href="https://blog.rendoumi.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 May 2025 20:38:55 +0800</lastBuildDate><atom:link href="https://blog.rendoumi.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>论devops的流程</title>
+        <link>https://blog.rendoumi.com/p/%E8%AE%BAdevops%E7%9A%84%E6%B5%81%E7%A8%8B/</link>
+        <pubDate>Wed, 14 May 2025 20:38:55 +0800</pubDate>
+        
+        <guid>https://blog.rendoumi.com/p/%E8%AE%BAdevops%E7%9A%84%E6%B5%81%E7%A8%8B/</guid>
+        <description>&lt;p&gt;v2ex上有个兄弟问如何开发转运维，其中有一位兄弟回答：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是那个 Team 就没有太按照 DevOps 的方式来运作吧, 他还有很重的之前 Ops 的思路.
+否则以代码驱动的配置, 是一定会走 git 的, 再有个一般性的 review, 被同意再进行 修改配置代码的部署.
+直接上去改配置绝对是 DevOps 的大忌讳, 因为会导致实际环境和代码部署的环境不一致.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;这个问题真的得看处在什么环境下，有的时候领导根本不考虑运维的处境，他的目的就是尽快灭火，尽快消灭问题，恢复正常。你走流程，你就背锅吧。&lt;/p&gt;
+&lt;p&gt;想起来了前任CTO领导，那次俄罗斯黑客利用漏洞贡献全球Cisco路由器。我们也中招了，路由器配置被全部清空了。当时还是大周末，人不在北京，在天津呢，领导打完电话我赶紧问网络工程师，心里也做好了打算，从天津开到亦庄大概1个小时，进去恢复一个小时，怎么着也得3个小时恢复。结果没5分钟，领导又来电话了，电话里慌得一匹：“这我可hold不住了，老板那里我可保不住了。”  简直了，我心里话我还没慌呢，要承担责任也是我承担。结果幸亏当时留了一条逃生线路，连了一个主机电脑，然后usb串口连接到各个交换机上，网络工程师艺高人胆大，半个小时就恢复了。&lt;/p&gt;
+&lt;p&gt;这种情况走devops流程，开玩笑呢吧，流程走完，得5、6个小时，锅背定了。所以流程，必须得在大公司才可以实施，小公司简直是找死。不负责任得领导才不管你什么流程呢，出了事不尽快解决，就是你背锅。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>重打鼓，另开张，新的博客开始了</title>
         <link>https://blog.rendoumi.com/p/%E9%87%8D%E6%89%93%E9%BC%93%E5%8F%A6%E5%BC%80%E5%BC%A0%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%A7%8B%E4%BA%86/</link>
         <pubDate>Wed, 14 May 2025 20:32:55 +0800</pubDate>
